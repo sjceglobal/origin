@@ -1,0 +1,4 @@
+msg = message test
+park = ¹ÚÁØÈ£
+ok = ok btn
+no = no btn

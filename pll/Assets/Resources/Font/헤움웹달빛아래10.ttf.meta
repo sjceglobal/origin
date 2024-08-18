@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b65a71325f58cbe448f81548676a0543
+timeCreated: 1494144732
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HUWebMoon10
+  fontNames:
+  - HUWebMoon10
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

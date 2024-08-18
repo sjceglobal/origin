@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 826cf544421b0224bb5b66a5a321e132
+timeCreated: 1494144731
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HUWebMoon12
+  fontNames:
+  - HUWebMoon12
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
